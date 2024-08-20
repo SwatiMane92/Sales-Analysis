@@ -83,7 +83,3 @@ This project provides a comprehensive analysis of sales data, offering valuable 
 ## Author
 
 - **Swati Mane** - [GitHub](https://github.com/SwatiMane92/)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
